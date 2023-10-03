@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44464",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\work\\CodeChallenge\\HackerNews-Solution\\HackerNews-Web\\HackerNews-Web\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

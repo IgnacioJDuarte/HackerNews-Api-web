@@ -1,0 +1,8 @@
+span.link {
+    color: #99b3ff;
+    text-decoration:underline;
+    cursor:pointer;
+  }
+  span.link:hover { 
+    color:#4676b9; 
+  }
